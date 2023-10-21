@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowrish7&label=Profile%20views&color=0e75b6&style=flat" alt="gowrish7" /> </p>
 
-- 🌱 I’m currently learning **Angular , MongoDB**
+- 🌱 I’m currently learning **Angular , MongoDB, Git**
 
 - 👨‍💻 All of my projects are available at [https://gowrish-g-kamath.netlify.app/](https://gowrish-g-kamath.netlify.app/)
 
