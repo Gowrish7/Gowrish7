@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowrish7&label=Profile%20views&color=0e75b6&style=flat" alt="gowrish7" /> </p>
-- 🌱 I’m currently learning **SQL , PowerBI, Git**
+- 🌱 I’m currently learning **SQL ,Github, Git**
 
 - 👨‍💻 All of my projects are available at [https://gowrish-g-kamath.netlify.app/](https://gowrish-g-kamath.netlify.app/)
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gowrishkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowrishkamath" height="30" width="40" /></a>
 <a href="https://instagram.com/gowrish_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowrish_77" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gowrishkamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gowrishkamat" height="30" width="40" /></a>
+<a href="https://www.hackerrak.com/gowrishkamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gowrishkamat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
